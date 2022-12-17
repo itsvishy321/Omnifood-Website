@@ -1,3 +1,3 @@
 # Omnifood-Website
 
-Link : https://itsvishy321.github.io/Omnifood-Website/
+Link : https://omnifood-vishal-verma.netlify.app/
